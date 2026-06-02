@@ -3,7 +3,7 @@
 Aplikasi pencarian dokumen hukum hibrida yang dibangun menggunakan pendekatan Lexical (BM25) dan Semantic Search (IndoSBERT), serta disempurnakan dengan teknik Reciprocal Rank Fusion (RRF) dan Re-ranking (Cross-Encoder).
 
 ## 🚀 Tautan Aplikasi Web
-**Aplikasi dapat diakses melalui:** [🔗 ]
+**Aplikasi dapat diakses melalui:** [🔗 https://legal-doc-hybrid-search.streamlit.app/]
 
 ## 🛠️ Teknologi yang Digunakan
 *   **Antarmuka Web:** Streamlit
