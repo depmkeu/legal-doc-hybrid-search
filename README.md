@@ -18,3 +18,9 @@ Aplikasi pencarian dokumen hukum hibrida yang dibangun menggunakan pendekatan Le
 2.  **Indexing:** Membangun indeks BM25 dan indeks vektor FAISS.
 3.  **Hybrid Retrieval (RRF):** Menggabungkan Top-10 hasil dari BM25 dan IndoSBERT menggunakan metode *Reciprocal Rank Fusion*.
 4.  **Re-ranking:** Melakukan evaluasi ulang terhadap hasil penggabungan menggunakan model *Cross-Encoder* untuk mendapatkan skor relevansi paling presisi pada Top-5.
+
+## Anggota Kelompok
+1.  Ni Made Adelia Wirasanti — 2405551010
+2.  Ni Putu Candradevi Davantari — 2405551035
+3.  Putu Della Pradnyaswari Cipta Dewi — 2405551063
+4.  Ida Ayu Ratih Widya Paramitha — 2405551111
